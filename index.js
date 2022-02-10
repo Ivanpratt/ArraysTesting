@@ -20,6 +20,14 @@ let itemCount = hamburgerBackpack.length
 console.log(itemCount)
 console.log("Hamburgerbackpack", hamburgerBackpack)
 console.log("hotdogduffelbag", hotdogDuffelbag)
+console.log("hotdogduffelbag", hotdogDuffelbag)
+console.log("hotdogduffelbag", hotdogDuffelbag)
+hotdogDuffelbag.pop();
+console.log("hotdogduffelbag", hotdogDuffelbag)
+hotdogDuffelbag.pop();
+console.log("hotdogduffelbag", hotdogDuffelbag)
+hotdogDuffelbag.pop();
+console.log("hotdogduffelbag", hotdogDuffelbag)
 
 for (i=0; i < hotdogDuffelbag.length; i++) {
     console.log(hotdogDuffelbag[i])
